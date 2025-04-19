@@ -1,4 +1,4 @@
-# NaturalMathQuest
+# Ronin Maths
 
 An interactive Jupyter notebook series to help children explore mathematical concepts through natural scenarios.
 
