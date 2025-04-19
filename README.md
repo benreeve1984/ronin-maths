@@ -2,7 +2,7 @@
 
 An interactive Jupyter notebook series to help children explore mathematical concepts through natural scenarios.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benreeve1984/NaturalMathQuest/HEAD?labpath=Week1_Build_a_Better_Fishing_Net.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benreeve1984/ronin-maths/HEAD?labpath=Week1_Build_a_Better_Fishing_Net.ipynb)
 
 ## How to save your work
 
